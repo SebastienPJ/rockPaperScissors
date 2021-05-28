@@ -1,0 +1,17 @@
+
+
+
+
+.scoreboard {
+  display: flex;
+}
+
+
+p {
+  padding: 10px;
+
+}
+
+.rock {
+  margin-left: 10px;
+}
